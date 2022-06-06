@@ -1,0 +1,11 @@
+Esta forma de trabajar estaba muy de moda antes de Angular, React, etc.
+
+=> express --view=ejs myapp-1
+
+Se genera el proyecto. luego instalamos las dependecias con:
+=> npm i
+
+=> npm run star 
+Lo iniciamos, y en bin/www vemos el puerto en el que está, en este caso el 3000
+
+En google abrimos localhost:3000 y ahi está el proyecto
